@@ -1,14 +1,14 @@
 # Project Twitter Clone with React.js
 
-_created by Rachmat Ghaly_
+_Created by Rachmat Ghaly_
 
-## I try to clone Twitter by consume API from randomuser.me/api and show it to the home page with the Realtime User Behavior.
+I try to clone Twitter by consume API from randomuser.me/api and show it to the home page with the Realtime User Behavior.
 
 ### First, i make the user cards and it will be viewed like this:
 
 ![Home](./src/assets/user-cards.png)
 
-### Then, i will continue this project more better, this really fun!
+Then, i will continue this project more better, this really fun!
 
 ## Available Scripts
 
